@@ -1,2 +1,2 @@
 # greenhouse
-create and breed something
+create and breed staff.
